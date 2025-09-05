@@ -1,0 +1,4 @@
+- [x] Input validation
+- [x] Password hashing
+- [x] JWT auth
+- [x] Secure headers
